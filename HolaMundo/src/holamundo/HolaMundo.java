@@ -13,7 +13,7 @@ public class HolaMundo {
     public static void main(String[] args) {
         System.out.println("Hola mundo");
         System.out.println("hola como esta");
-        System.out.println("suma" +2+2);
+        System.out.println("suma" +4+4);
     }
     
 }
